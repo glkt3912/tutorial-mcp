@@ -61,7 +61,7 @@ npm run build
      "mcp.servers": {
        "weather": {
          "command": "node",
-         "args": ["./build/index.js"]
+         "args": ["/ABSOLUTE/PATH/TO/PARENT/FOLDER/weather/build/index.js"]
        }
      }
    }
