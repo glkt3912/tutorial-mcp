@@ -1,3 +1,8 @@
+> **[Archived]** このリポジトリは 2026-11-01 に repo-health により自動アーカイブされました。
+> 最終更新から 12 ヶ月以上経過しているため、読み取り専用になっています。
+
+---
+
 # Weather MCP Server
 
 National Weather Service APIを使用した天気情報を提供するModel Context Protocol (MCP) サーバーです。
